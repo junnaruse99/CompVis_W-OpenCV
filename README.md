@@ -1,1 +1,3 @@
-# CompVis_W-OpenCV
+# Computer Vision - Image Basics with OpenCv and Python
+
+This is a guided project from Coursera.
